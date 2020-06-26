@@ -32,7 +32,7 @@ $("#pick").click(function() {
 
   runnerUp = "Runners up: " + runnersUp;
 
-  //winner = "🎉" + " " + winner + " " + "🎉";
+  winner = "🐢" + " " + winner + " " + "🐢";
   //winner = winner;
 
   // Display winner
